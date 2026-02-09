@@ -51,8 +51,8 @@ export default function ShowCreators() {
 
         {!loading && creators.length > 0 && (
           <section className="creators-grid">
-            {creators.map((c) => (
-              <CreatorCard key={c.id} creator={c} />
+            {creators.map((creator) => (
+              <CreatorCard key={creator.id} creator={creator} />
             ))}
           </section>
         )}
