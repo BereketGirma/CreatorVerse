@@ -52,7 +52,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://image2url.com/r2/default/gifs/1770615729779-bf19ad95-600d-4264-ab54-d9f104006b40.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/BereketGirma/CreatorVerse/blob/main/assets/prework_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
